@@ -1,10 +1,10 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Dhanushwaran AJ</h1>
 <h3 align="center">A passionate Frontend Developer | React JS | Actively seeking an entry-level front-end developer position. </h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushwaran06&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushwaran06" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dhanushwaran06&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushwaran06" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack.**
 
