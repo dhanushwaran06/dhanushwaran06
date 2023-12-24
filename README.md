@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ajdhanush.jvl@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Vj0WLTao3AqlNxJ5qo7bx6CDDHWJmNg/view?usp=sharing](https://drive.google.com/file/d/11Vj0WLTao3AqlNxJ5qo7bx6CDDHWJmNg/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/11Vj0WLTao3AqlNxJ5qo7bx6CDDHWJmNg/view?usp=sharing](https://drive.google.com/file/d/11Vj0WLTao3AqlNxJ5qo7bx6CDDHWJmNg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
