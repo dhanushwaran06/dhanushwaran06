@@ -13,7 +13,7 @@
 - 📫 How to reach me **ajdhanush.jvl@gmail.com**
 
 - 📄 Resume 
-https://drive.google.com/file/d/13I3gAD8oNdIA5WH-lAMZvYQBs-l5SH0U/view?usp=drivesdk
+https://drive.google.com/file/d/13I3gAD8oNdIA5WH-lAMZvYQBs-l5SH0U/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
