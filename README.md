@@ -12,10 +12,7 @@
 
 - 📫 How to reach me **ajdhanush.jvl@gmail.com**
   
--  👨‍💻 Portfolio [https://dhanushwaran06.github.io/portfolio-threejs/](https://dhanushwaran06.github.io/portfolio-threejs/)
-
-- 📄 Resume 
-https://drive.google.com/file/d/1SHQu1EOPH9UwQ0eRaoQoy8mMQz7mBkAm/view?usp=sharing
+-  👨‍💻 Portfolio [Personal Website](https://dhanushwaran06.github.io/portfolio-threejs/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
