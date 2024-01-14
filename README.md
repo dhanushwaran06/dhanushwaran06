@@ -1,7 +1,7 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Dhanushwaran AJ</h1>
 <h3 align="center">A passionate Frontend Developer | React JS | Actively seeking an entry-level front-end developer position. </h3>
-<img align="left" alt="Coding" width="400" src="https://colab.research.google.com/drive/11upRr__AyoA2PSokOGRUy4xDDlWTnCs1">
+<img align="left" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dhanushwaran06&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushwaran06" /> </p>
