@@ -1,4 +1,4 @@
-# 💫 About Me: Hi 👋, I'm Dhanushwaran AJ,<br><h2>A Full Stack Engineer Intern at O2D3 | React.js, Next.js | LAMP Stack | Tech Enthusiast Passionate about Web Development & Cyber Security.</h2>
+# About Me: Hi 👋, I'm Dhanushwaran AJ,<br><h2>A Full Stack Engineer Intern at O2D3 | React.js, Next.js | LAMP Stack | Tech Enthusiast Passionate about Web Development & Cyber Security.</h2>
 <br>👯 I’m looking to collaborate On -> Web3 OR Three.js Projects<br>🌱 I’m currently learning -> LAMP Stack | Next JS | DataBase System | AI<br>💬 Ask me about ->  Front End Development<br>
 
 
