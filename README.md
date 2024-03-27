@@ -1,6 +1,13 @@
 # About Me: Hi 👋, I'm Dhanushwaran AJ,<br> <h3>A Full Stack Engineer Intern at O2D3 | React.js, Next.js | LAMP Stack | Tech Enthusiast Passionate about Web Development & Cyber Security.</h3>
-<br>👯 I’m looking to collaborate On -> Web3 OR Three.js Projects<br>🌱 I’m currently learning -> LAMP Stack | Next JS | DataBase System | AI<br>💬 Ask me about ->  Front End Development<br>
+- 🌱 I’m currently learning **LAMP Stack | Next JS | DataBase System | AI**
 
+- 👯 I’m looking to collaborate on **On Web3 OR Three.js Projects**
+
+- 👨‍💻 Portfolio [https://dhanushwaran06.github.io/portfolio-threejs/](https://dhanushwaran06.github.io/portfolio-threejs/)
+
+- 💬 Ask me about **Front End Development**
+
+- 📫 How to reach me **ajdhanush.jvl@gmail.com**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nFrUGq5b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushwaran-aj-a4b8901a6/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dhanushwaran06) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21741420/dhanushwaran) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dhanushwaran06)
