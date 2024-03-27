@@ -4,9 +4,9 @@
 
 - 👯 I’m looking to collaborate on **On Web3 OR Three.js Projects**
 
-- 👨‍💻 Portfolio [https://dhanushwaran06.github.io/portfolio-threejs/](https://dhanushwaran06.github.io/portfolio-threejs/)
-
 - 💬 Ask me about **Front End Development**
+
+- 👨‍💻 Portfolio [https://dhanushwaran06.github.io/portfolio-threejs/](https://dhanushwaran06.github.io/portfolio-threejs/)
 
 - 📫 How to reach me **ajdhanush.jvl@gmail.com**
 
