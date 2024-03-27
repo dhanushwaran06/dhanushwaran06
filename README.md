@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushwaran06&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushwaran06" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanushwaran06" alt="dhanushwaran06" /></a> </p>
-
 - 🌱 I’m currently learning **LAMP Stack | Next JS | DataBase System | AI**
 
 - 👯 I’m looking to collaborate on **On Web3 OR Three.js**
@@ -39,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanushwaran06&show_icons=true&locale=en" alt="dhanushwaran06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushwaran06&" alt="dhanushwaran06" /></p>
-
