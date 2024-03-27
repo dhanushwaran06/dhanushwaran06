@@ -1,6 +1,8 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Dhanushwaran AJ</h1>
 <h3 align="center">Full Stack Engineer Intern at O2D3 | React.js, Next.js | LAMP Stack | Tech Enthusiast Passionate about Web Development & Cyber Security.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushwaran06&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushwaran06" /> </p>
 
@@ -23,7 +25,7 @@
 <a href="https://dev.to/https://dev.to/dhanushwaran06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dhanushwaran06" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhanushwaran-aj-a4b8901a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhanushwaran-aj-a4b8901a6/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21741420/dhanushwaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21741420/dhanushwaran" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/@_ty_ler_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@_ty_ler_" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/nFrUGq5b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nFrUGq5b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanushwaran06&show_icons=true&locale=en" alt="dhanushwaran06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushwaran06&" alt="dhanushwaran06" /></p>
+
