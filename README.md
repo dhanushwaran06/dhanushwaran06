@@ -1,9 +1,6 @@
-![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Dhanushwaran AJ</h1>
 <h3 align="center">Full Stack Engineer Intern at O2D3 | React.js, Next.js | LAMP Stack | Tech Enthusiast Passionate about Web Development & Cyber Security.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushwaran06&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushwaran06" /> </p>
 
 - 🌱 I’m currently learning **LAMP Stack | Next JS | DataBase System | AI**
