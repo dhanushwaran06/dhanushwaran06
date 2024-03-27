@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanushwaran AJ</h1>
-<h3 align="center">Full Stack Engineer Intern at O2D3 | React.js, Next.js | LAMP Stack | Tech Enthusiast Passionate about Web Development & Cyber Security.</h3><br>
+<h3 align="center">Full Stack Engineer Intern at O2D3 | React.js, Next.js | LAMP Stack | Tech Enthusiast Passionate about Web Development & Cyber Security.</h3>
 - 🌱 I’m currently learning **LAMP Stack | Next JS | DataBase System | AI**
 
 - 👯 I’m looking to collaborate on **On Web3 OR Three.js Projects**
