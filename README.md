@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanushwaran A J</h1>
-<h3 align="center">Full Stack Engineer | React.js, Next.js | LAMP Stack | Tech Enthusiast Passionate about Web Development & Cyber Security.</h3>
+<h3 align="center">Working Junior Full Stack Engineer | React.js, Next.js, Three.js | Node.js | LAMP | Python | Docker | Network security </h3>
 
 - 🌱 I’m currently learning **LAMP Stack | Next JS | DataBase System | AI**
 
