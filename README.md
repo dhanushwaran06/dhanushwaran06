@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanushwaran A J</h1>
 <h3 align="center">Working Web Engineer | React.js, Next.js, Laravel | PHP | Node.js | LAMP | Python | Docker | Network security </h3>
-<h2 align="center">Working Web Engineer | React.js, Next.js, Laravel | PHP | Node.js | LAMP | Python | Docker | Network security </h2>
+<h5 align="center">Building Kiospal | Techie | Open Source Innovations </h4>
 
 - 🌱 I’m currently learning **LAMP Stack | Next JS | DataBase System | AI**
 
