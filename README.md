@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanushwaran A J</h1>
-<h3 align="center">Working Web Engineer | React.js, Next.js, Laravel | PHP | Node.js | LAMP | Python | Docker | Network security </h3>
+<h3 align="center"> Web Engineer | React.js, Node.js | PHP,  Laravel  |  | LAMP | Linux | Docker | Network security </h3>
 <h5 align="center">Building Kiospal | Techie | Open Source Innovations </h4>
 
 - 🌱 I’m currently learning **LAMP Stack | Next JS | DataBase System | AI**
