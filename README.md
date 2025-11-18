@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dhanushwaran A J</h1>
-<h3 align="center"> Web Engineer | React.js, Node.js | PHP,  Laravel  |  | LAMP | Linux | Docker | Network security </h3>
+<h3 align="center"> IoT & Software Engineer | Building Kiospal | Secure Networking & OSINT | Local AI/LLMs | Open Source Innovator </h3>
 <h5 align="center">Building Kiospal | Techie | Open Source Innovations </h4>
 
-- 🌱 I’m currently learning **LAMP Stack | Next JS | DataBase System | AI**
+- 🌱 I’m currently learning **AIoT | LLM, SLM | System Architecture |**
 
-- 👯 I’m looking to collaborate on **On Web3 | Three.js Projects**
+- 👯 I’m looking to collaborate on **On Web3 | Mini Projects | Startup Ideas**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 👨‍💻 Portfolio [https://dhanushwaran06.github.io/portfolio-threejs/](https://dhanushwaran06.github.io/portfolio-threejs/)
 
